@@ -128,6 +128,22 @@ This collection showcases our ongoing research into the pervasive issues of sexi
         
 </details>
 
+## Abstracts
+
+ <details>
+ <summary>  <a  href="https://dssr2025.sis-statistica.it/wp-content/uploads/2025/02/DSSR2025Bookofabstracts.pdf#page=30"> 📚 </a>  "Misogynous Memes Recognition: Training vs Inference Bias Mitigation Strategies" </summary>
+          
+        ```
+          @article{rizzibeyond,
+            title={Beyond Misogyny Detection: Investigating Bias and Embracing Perspectivism},
+            author={Rizzi, Giulia and Fersini, Elisabetta},
+            journal={Book of Abstracts _ Data Science & Social Research (DSSR 2025)},
+            pages={13}
+          }
+        ```
+        
+</details>
+
 ## Shared Tasks Participation
 
 Our Participation in [EXIST Shared Tasks](href="//nlp.uned.es/exist2025/") :
