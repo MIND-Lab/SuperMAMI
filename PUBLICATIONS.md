@@ -31,7 +31,7 @@ This collection showcases our ongoing research into the pervasive issues of sexi
  <summary>  <a href="//link.springer.com/chapter/10.1007/978-3-031-08421-8_19"> 📚 </a>  "Misogynous meme recognition: A preliminary study" </summary>
           
         ```
-        @inproceedings{fersini2021misogynous,
+          @inproceedings{fersini2021misogynous,
         title={Misogynous meme recognition: A preliminary study},
         author={Fersini, Elisabetta and Rizzi, Giulia and Saibene, Aurora and Gasparini, Francesca},
         booktitle={International conference of the Italian association for artificial intelligence},
@@ -47,13 +47,13 @@ This collection showcases our ongoing research into the pervasive issues of sexi
  <summary>  <a href="//aclanthology.org/2022.semeval-1.74/"> 📚 </a>  "SemEval-2022 Task 5: Multimedia automatic misogyny identification" </summary>
           
         ```
-        @inproceedings{fersini2022semeval,
+          @inproceedings{fersini2022semeval,
         title={SemEval-2022 Task 5: Multimedia automatic misogyny identification},
         author={Fersini, Elisabetta and Gasparini, Francesca and Rizzi, Giulia and Saibene, Aurora and Chulvi, Berta and Rosso, Paolo and Lees, Alyssa and Sorensen, Jeffrey},
         booktitle={Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022">},
         pages={533--549},
         year={2022}
-            }
+        }
         ```
         
 
@@ -69,7 +69,7 @@ This collection showcases our ongoing research into the pervasive issues of sexi
         booktitle={Proceedings of the 9th Italian Conference on Computational Linguistics (CLiC-it 2023">},
         pages={63--69},
         year={2023}
-            }
+        }
         ```
         
 </details>
@@ -90,7 +90,34 @@ This collection showcases our ongoing research into the pervasive issues of sexi
         pages={103474},
         year={2023},
         publisher={Elsevier}
-      }
+        }
+        ```
+        
+  </details>
+
+ <details>
+ <summary>  <a href="https://ceur-ws.org/Vol-3756/DIMEMEX2024_paper3.pdf"> 📚 </a> "Multimodal Hate Speech Detection in Memes from Mexico using BLIP" </summary>
+  
+        ```
+           @article{maqbool2024multimodal,
+       title={Multimodal Hate Speech Detection in Memes from Mexico using BLIP},
+       author={Maqbool, Fariha and Fersini, Elisabetta},
+       year={2024}
+       }
+        ```
+        
+  </details>
+
+  <details>
+ <summary>  <a href="https://ceur-ws.org/Vol-3740/paper-101.pdf"> 📚 </a> "A contrastive learning based approach to detect sexism in memes" </summary>
+  
+        ```
+           @article{maqbool2024contrastive,
+        title={A contrastive learning based approach to detect sexism in memes},
+        author={Maqbool, Fariha and Fersini, Elisabetta},
+        journal={Working Notes of CLEF},
+        year={2024}
+        }
         ```
         
   </details>
@@ -102,10 +129,9 @@ This collection showcases our ongoing research into the pervasive issues of sexi
            @inproceedings{rizzi2024explanation,
         title={From Explanation to Detection: Multimodal Insights into Disagreement in Misogynous Memes},
         author={Rizzi, Giulia and Rosso, Paolo and Fersini, Elisabetta},
-        booktitle={Proceedings of the 10th Italian Conference on Computational Linguistics (CLiC-it 2024">},
+        booktitle={Proceedings of the 10th Italian Conference on Computational Linguistics (CLiC-it 2024">}},
         pages={821--828},
         year={2024}
-        }
         }
         ```
         
@@ -115,14 +141,14 @@ This collection showcases our ongoing research into the pervasive issues of sexi
  <summary>  <a  href="//journals.openedition.org/ijcol/1644"> 📚 </a>  "Misogynous Memes Recognition: Training vs Inference Bias Mitigation Strategies" </summary>
           
         ```
-          @article{balducci2025misogynous,
-           title={Misogynous Memes Recognition: Training vs Inference Bias Mitigation Strategies},
-           author={Balducci, Gianmaria and Rizzi, Giulia and Fersini, Elisabetta},
-           journal={IJCoL. Italian Journal of Computational Linguistics},
-           volume={11},
-           number={11-1},
-           year={2025},
-           publisher={Accademia University Press}
+           @article{balducci2025misogynous,
+         title={Misogynous Memes Recognition: Training vs Inference Bias Mitigation Strategies},
+         author={Balducci, Gianmaria and Rizzi, Giulia and Fersini, Elisabetta},
+         journal={IJCoL. Italian Journal of Computational Linguistics},
+         volume={11},
+         number={11-1},
+         year={2025},
+         publisher={Accademia University Press}
          }
         ```
         
@@ -134,12 +160,12 @@ This collection showcases our ongoing research into the pervasive issues of sexi
  <summary>  <a  href="https://dssr2025.sis-statistica.it/wp-content/uploads/2025/02/DSSR2025Bookofabstracts.pdf#page=30"> 📚 </a>  "Misogynous Memes Recognition: Training vs Inference Bias Mitigation Strategies" </summary>
           
         ```
-          @article{rizzibeyond,
-            title={Beyond Misogyny Detection: Investigating Bias and Embracing Perspectivism},
-            author={Rizzi, Giulia and Fersini, Elisabetta},
-            journal={Book of Abstracts _ Data Science & Social Research (DSSR 2025)},
-            pages={13}
-          }
+            @article{rizzibeyond,
+        title={Beyond Misogyny Detection: Investigating Bias and Embracing Perspectivism},
+        author={Rizzi, Giulia and Fersini, Elisabetta},
+        journal={Book of Abstracts _ Data Science & Social Research (DSSR 2025)},
+        pages={13}
+        }
         ```
         
 </details>
@@ -171,11 +197,11 @@ Our Participation in [EXIST Shared Tasks](href="//nlp.uned.es/exist2025/") :
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" alt="GitHub"/"> <a href="//github.com/giulia95/PINK-at-EXIST2024"> </summary>
           
         ```
-           @@article{rizzi2024pink,
-          title={PINK at EXIST2024: a cross-lingual and multi-modal transformer approach for sexism detection in memes},
-          author={Rizzi, Giulia and Gimeno-G{\'o}mez, David and Fersini, Elisabetta and Mart{\'\i}nez-Hinarejos, Carlos-D},
-          journal={Working Notes of CLEF},
-          year={2024}
+          @@article{rizzi2024pink,
+        title={PINK at EXIST2024: a cross-lingual and multi-modal transformer approach for sexism detection in memes},
+        author={Rizzi, Giulia and Gimeno-G{\'o}mez, David and Fersini, Elisabetta and Mart{\'\i}nez-Hinarejos, Carlos-D},
+        journal={Working Notes of CLEF},
+        year={2024}
         }
         ```
         
