@@ -63,10 +63,11 @@ Our datasets may be distributed upon request and for academic purposes only. To 
 ## 👩‍🔬 Team
 Created with ❤️ by the **MAMI Research Team**  
 
-[![GitHub Stars](https://img.shields.io/github/stars/mind-lab/SuperMAMI?logo=github)](https://github.com/mind-lab/SuperMAMI/stargazers)
 
 ---
 
 ## ⭐ Cite & Support
 If you use our datasets or papers, please **cite our work**.  
 Don’t forget to **star this repository** to support our research!  
+
+[![GitHub Stars](https://img.shields.io/github/stars/mind-lab/SuperMAMI?logo=github)](https://github.com/mind-lab/SuperMAMI/stargazers)
