@@ -1,6 +1,6 @@
 # 🚀 SUPER MAMI
 
-## **Synthesizing Up-to-date Publications & Benchmarks for Researchers in Multimedia Automatic Misogyny Identification**  
+## **Synthesizing Up-to-date Publications & bEnchmarks for Researchers in Multimedia Automatic Misogyny Identification**  
 
 A central hub for our research, papers, datasets, and resources on misogyny detection in online multimedia content.
 
