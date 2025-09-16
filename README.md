@@ -1,6 +1,6 @@
 # 🚀 SUPER MAMI
 
-**Synthesizing Up-to-date Publications & Benchmarks for Researchers in Multimedia Automatic Misogyny Identification**  
+## **Synthesizing Up-to-date Publications & Benchmarks for Researchers in Multimedia Automatic Misogyny Identification**  
 
 A central hub for our research, papers, datasets, and resources on misogyny detection in online multimedia content.
 
@@ -16,7 +16,7 @@ A central hub for our research, papers, datasets, and resources on misogyny dete
 ---
 
 ## 💡 About
-**SUPER M.A.M.I** is a **dissemination hub** for our work on **detecting and understanding misogyny in online multimedia content**.  
+**SUPER MAMI** is a **dissemination hub** for our work on **detecting and understanding misogyny in multimedia content**.  
 We focus on:
 
 - 🕵️‍♀️ **Detection** of misogynistic language and content  
@@ -44,7 +44,7 @@ Our key publications on misogyny identification:
 ## 📊 Datasets
 Our datasets may be distributed upon request and for academic purposes only. To request the datasets, please fill out the respective forms:
 - :gb: **Benchmark dataset of memes with text transcriptions for automatic detection of multi-modal misogynistic content**  
-  [📘 Paper](https://www.sciencedirect.com/science/article/pii/S235234092200720X) · [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" alt="GitHub"/> Source](https://github.com/MIND-Lab/MEME)
+  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" alt="GitHub"/> Source](https://github.com/MIND-Lab/MEME) · [📘 Paper](https://www.sciencedirect.com/science/article/pii/S235234092200720X) · 
 
 - :gb: **MAMI - Multimedia Automatic Misogyny Identification**  
   [📥 Request Form](https://forms.gle/AGWMiGicBHiQx4q98) · [📘 Paper](https://aclanthology.org/2022.semeval-1.74/)
@@ -63,7 +63,7 @@ Our datasets may be distributed upon request and for academic purposes only. To 
 ## 👩‍🔬 Team
 Created with ❤️ by the **MAMI Research Team**  
 
-[![GitHub followers](https://img.shields.io/github/followers/github?style=social)](https://github.com/)
+[![GitHub Stars](https://img.shields.io/github/stars/mind-lab/SuperMAMI?logo=github)](https://github.com/mind-lab/SuperMAMI/stargazers)
 
 ---
 
