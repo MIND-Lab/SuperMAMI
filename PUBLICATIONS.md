@@ -8,7 +8,7 @@ This collection showcases our ongoing research into the pervasive issues of sexi
 🎯 **Bias Mitigation**: Designing approaches to reduce bias and improve fairness in automated systems for detecting misogynistic content.
 
 
-# Publications
+## Papers
 <details>
  <summary>  <a href="//www.sciencedirect.com/science/article/pii/S235234092200720X"> 📚 </a> "Benchmark dataset of memes with text transcriptions for automatic detection of multimodal misogynistic content" </summary>
       
@@ -128,7 +128,7 @@ This collection showcases our ongoing research into the pervasive issues of sexi
         
 </details>
 
-## Shared Tasks
+## Shared Tasks Participation
 
 Our Participation in [EXIST Shared Tasks](href="//nlp.uned.es/exist2025/") :
 
