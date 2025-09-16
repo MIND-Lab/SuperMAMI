@@ -1,6 +1,12 @@
-# 🚀 SUPER MAMI
+<h1 align="center">
+<img src="SuperMAMI.png" alt="SuperMAMI Logo" width="120"/>   
+      
+SuperMAMI
+</h1><h2 align="center">
+      Synthesizing Up-to-date Publications & bEnchmarks for Researchers  <br> 
+      in Multimedia Automatic Misogyny Identification
+</h2>
 
-## **Synthesizing Up-to-date Publications & bEnchmarks for Researchers in Multimedia Automatic Misogyny Identification**  
 
 A central hub for our research, papers, datasets, and resources on misogyny detection in online multimedia content.
 
